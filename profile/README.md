@@ -1,4 +1,4 @@
-<a href="https://www.beekai.com"><img src="https://github.com/beekai-oss/.github/blob/main/hero.png?raw=true" /></a>
+<a href="https://www.beekai.com"><img src="https://github.com/beekai-oss/.github/blob/main/hero-img.png?raw=true" /></a>
 
 # BEEKAI
 
